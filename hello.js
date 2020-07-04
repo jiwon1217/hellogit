@@ -10,3 +10,8 @@ function minus(a,b)
     console.log(ret)
     return a-b
 }
+
+function mul(a,b)
+{
+    return a*b
+}
